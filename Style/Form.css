@@ -1,0 +1,20 @@
+body{
+    background-image: url('/—Pngtree—minimal\ geometric\ podium\ scene\ with_1203883.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+form{
+    text-align: center;
+    font-weight: 650;
+}
+button{
+    text-align: center;
+    font-weight: 700;
+    font: 1.2em sans-serif;
+}
