@@ -18,3 +18,7 @@ button{
     font-weight: 700;
     font: 1.2em sans-serif;
 }
+input{
+    font-style: inherit;
+    font-size: medium;
+}
